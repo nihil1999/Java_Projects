@@ -22,7 +22,7 @@ public class Wordle_game {
 	
 	public void toGetRandom_Word()
 	{
-		s1="sweet";	
+		s1="lord";	
 		System.out.println(s1);
 		
 	}
